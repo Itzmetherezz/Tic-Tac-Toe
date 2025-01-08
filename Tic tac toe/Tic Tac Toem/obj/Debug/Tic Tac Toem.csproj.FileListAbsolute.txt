@@ -1,0 +1,7 @@
+C:\Users\itzth\source\repos\Tic tac toe\Tic Tac Toem\obj\Debug\Tic Tac Toem.csproj.AssemblyReference.cache
+C:\Users\itzth\source\repos\Tic tac toe\Tic Tac Toem\obj\Debug\Tic Tac Toem.csproj.CoreCompileInputs.cache
+C:\Users\itzth\source\repos\Tic tac toe\Tic Tac Toem\bin\Debug\Tic Tac Toem.exe.config
+C:\Users\itzth\source\repos\Tic tac toe\Tic Tac Toem\bin\Debug\Tic Tac Toem.exe
+C:\Users\itzth\source\repos\Tic tac toe\Tic Tac Toem\bin\Debug\Tic Tac Toem.pdb
+C:\Users\itzth\source\repos\Tic tac toe\Tic Tac Toem\obj\Debug\Tic Tac Toem.exe
+C:\Users\itzth\source\repos\Tic tac toe\Tic Tac Toem\obj\Debug\Tic Tac Toem.pdb
